@@ -1,0 +1,1 @@
+# budgie-manjaro-firefox-settings
